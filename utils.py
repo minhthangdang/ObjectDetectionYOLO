@@ -20,7 +20,7 @@ def draw_prediction(frame, classes, classId, conf, left, top, right, bottom):
     cv2.rectangle(frame, (left, top - labelSize[1]), (left + labelSize[0], top + baseLine), (255, 255, 255), cv2.FILLED)
     cv2.putText(frame, label, (left, top), cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0))
 
-
+# Process frame, eliminating boxes with low confidence scores and applying non-max suppression
 def process_frame(frame, outs, classes, confThreshold, nmsThreshold):
     # Get the width and height of the image
     frameHeight = frame.shape[0]
