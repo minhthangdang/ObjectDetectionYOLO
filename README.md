@@ -30,6 +30,7 @@ For example, with this input image:
 <br><br>
 
 The output will be
+
 <img src="https://github.com/minhthangdang/minhthangdang.github.io/blob/master/YOLO-output.png?raw=true" alt="YOLO input image" title="YOLO input image">
 <br><br>
 
