@@ -16,6 +16,8 @@
 
 ## Usage
 
+Copy the above config, weights and class names files into the same folder as this source code.
+
 To detect object in image, just run:
 
 ```Python
@@ -37,7 +39,7 @@ Similarly, to detect object in video, just run:
 python yolo_detect_video.py --video name_of_your_video_here
 ```
 
-An example can be seen below:
+An video example can be seen below:
 
 [![](http://img.youtube.com/vi/5Zt7ohK2Rjk/0.jpg)](http://www.youtube.com/watch?v=5Zt7ohK2Rjk "")
 
