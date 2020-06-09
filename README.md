@@ -39,6 +39,6 @@ python yolo_detect_video.py --video name_of_your_video_here
 
 An example can be seen below:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5Zt7ohK2Rjk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![](http://img.youtube.com/vi/5Zt7ohK2Rjk/0.jpg)](http://www.youtube.com/watch?v=5Zt7ohK2Rjk "")
 
 Full tutorial is available at http://dangminhthang.com/computer-vision/object-detection-and-recognition-using-yolo/
